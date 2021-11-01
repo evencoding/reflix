@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/reflix/static/js/main.d17579cf.chunk.js",
+    "main.js.map": "/reflix/static/js/main.d17579cf.chunk.js.map",
+    "runtime-main.js": "/reflix/static/js/runtime-main.6bbdcb85.js",
+    "runtime-main.js.map": "/reflix/static/js/runtime-main.6bbdcb85.js.map",
+    "static/js/2.8f2c8ba0.chunk.js": "/reflix/static/js/2.8f2c8ba0.chunk.js",
+    "static/js/2.8f2c8ba0.chunk.js.map": "/reflix/static/js/2.8f2c8ba0.chunk.js.map",
+    "index.html": "/reflix/index.html",
+    "static/js/2.8f2c8ba0.chunk.js.LICENSE.txt": "/reflix/static/js/2.8f2c8ba0.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.jpg": "/reflix/static/media/noPosterSmall.31ee8645.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bbdcb85.js",
+    "static/js/2.8f2c8ba0.chunk.js",
+    "static/js/main.d17579cf.chunk.js"
+  ]
+}
